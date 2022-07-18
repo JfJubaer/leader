@@ -44,3 +44,24 @@ hr{
     margin-left: 24px;
     font-size: 24px;
 }
+/* top blog styles */
+.blog{
+    display: flex;
+}
+.blog .thumbnail img{
+    width: 177px;
+}
+.info{
+    margin-left: 20px;
+}
+.blog-title{
+    font-size: 20px;
+}
+.author{
+    color: #9F9F9F;
+}
+.author a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #562EFF;
+}
